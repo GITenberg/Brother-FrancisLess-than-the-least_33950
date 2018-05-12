@@ -1,0 +1,33 @@
+_repo: Brother-FrancisLess-than-the-least_33950
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Booth, William
+    birthdate: 1829
+    deathdate: 1912
+    gutenberg_agent_id: '254'
+    url: http://www.gutenberg.org/2009/agents/254
+    wikipedia: http://en.wikipedia.org/wiki/William_Booth
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Douglas, Eileen
+    gutenberg_agent_id: '36676'
+    url: http://www.gutenberg.org/2009/agents/36676
+description: ''
+gutenberg_issued: '2010-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33950'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Christian saints -- Biography'
+- !lcsh 'Francis, of Assisi, Saint, 1182-1226'
+title: Brother Francis; Or, Less than the Least
+url: http://www.gutenberg.org/ebooks/33950
